@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 gitbanner
 =========
 
@@ -45,3 +46,6 @@ git push git@github.com:USERNAME/REPO_NAME.git master
 If you ever feel like removing the banner from your profile, you can simply delete the repository. Github will instantly update your Contributions graph.
 
 If you want, you can specify a longer banner width (`gitbanner -w X ...`). Any width longer than 52 will be cut off on Github, but the banner will be slowly revealed as the weeks go by.
+=======
+# ofazomi
+>>>>>>> 14dbcd048f3be289f9461b4cf726b6b661c8159f
